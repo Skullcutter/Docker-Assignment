@@ -42,8 +42,3 @@ Open you choice of web browser and navigate to http://localhost:8080
 3. Save the file.
    
 This README.md provides a comprehensive overview of your project, making it easier for others (or yourself in the future) to understand how to set up and run your application.
-
- 
-
-
-
