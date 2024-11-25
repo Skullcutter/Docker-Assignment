@@ -12,6 +12,16 @@ This project is a lightweight static website developed using HTML, CSS, and Java
 
 - Lightweight and efficient implementation, suitable for educational or demonstrative purposes.
 
+  ## Project Structure
+  ```bash
+  /project-folder/
+  │
+  ├── Dockerfile              # Dockerfile for containerizing the project
+  ├── index.html              # Main HTML file for the website
+  ├── style.css               # Stylesheet for styling the website
+  └── script.js               # JavaScript for interactivity
+  ```
+  
  ## Installation
 **Clone the Repository**
 ```bash
